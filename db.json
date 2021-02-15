@@ -1,0 +1,138 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "activityName": "Java"
+    },
+    {
+      "id": 2,
+      "activityName": "JavaScript"
+    },
+    {
+      "id": 3,
+      "activityName": "Namaz"
+    },
+    {
+      "id": 4,
+      "activityName": "React"
+    },
+    {
+      "id": 5,
+      "activityName": "ReactJs"
+    },
+    {
+      "id": 6,
+      "activityName": "ReactNative"
+    },
+    {
+      "id": 7,
+      "activityName": "Ing reading"
+    },
+    {
+      "id": 8,
+      "activityName": "Ing listening"
+    },
+    {
+      "id": 9,
+      "activityName": "Ing watching"
+    },
+    {
+      "id": 11,
+      "activityName": "JAAVA"
+    }
+  ],
+  "days": [
+    "Pazartesi",
+    "Sali",
+    "Carsamba",
+    "Persembe",
+    "Cuma",
+    "Cumartesi",
+    "Pazar"
+  ],
+  "hours": [
+    "07.00",
+    "08.00",
+    "09.00",
+    "10.00",
+    "11.00",
+    "12.00",
+    "13.00",
+    "14.00",
+    "15.00",
+    "16.00",
+    "17.00",
+    "18.00",
+    "19.00",
+    "20.00",
+    "21.00",
+    "22.00",
+    "23.00"
+  ],
+  "data": [
+    {
+      "id": 1,
+      "day": "Pazartesi",
+      "activities": [
+        {
+          "hour": "07.00",
+          "activityName": "Uyku"
+        }
+      ]
+    },
+    {
+      "day": "Sali",
+      "activities": [
+        {
+          "hour": "07.00",
+          "activityName": "Uyku"
+        }
+      ]
+    },
+    {
+      "day": "Carsamba",
+      "activities": [
+        {
+          "hour": "07.00",
+          "activityName": "Uyku"
+        }
+      ]
+    },
+    {
+      "day": "Persembe",
+      "activities": [
+        {
+          "hour": "07.00",
+          "activityName": "Uyku"
+        }
+      ]
+    },
+    {
+      "day": "Cuma",
+      "activities": [
+        {
+          "hour": "07.00",
+          "activityName": "Uyku"
+        }
+      ]
+    },
+    {
+      "day": "Cumartesi",
+      "activities": [
+        {
+          "hour": "07.00",
+          "activityName": "Uyku"
+        }
+      ]
+    },
+    {
+      "day": "Pazar",
+      "activities": [
+        {
+          "hour": "07.00",
+          "activityName": "Uyku"
+        }
+      ]
+    }
+  ]
+}
